@@ -1,0 +1,10 @@
+mention the text you want to send 
+
+Hello mate !
+
+
+This mail is different from the ordinary emails you receive , this is special becoz this was sent using a Mailing Client made using python .
+
+
+Bye!
+#Naman Ahuja
